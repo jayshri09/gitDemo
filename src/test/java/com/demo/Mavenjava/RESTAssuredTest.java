@@ -15,6 +15,7 @@ public class RESTAssuredTest {
 	public void deleteTiwter()
 	{
 		System.out.println("deleteTiwter");
+		System.out.println("updatetiwter");
 	}
 
 }
